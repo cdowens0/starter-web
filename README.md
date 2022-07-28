@@ -11,3 +11,5 @@ some edits idk
 
 some more edits for rebasing
 yet again some more edits
+
+allrights reserved
